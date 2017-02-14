@@ -1,0 +1,10 @@
+{
+  "autoload": {
+    "psr-4": {
+      "fruit\\apple\\": "lib/fruit",
+      "fruit\\banana\\": "lib/fruit",
+      "fruit\\grape\\": "lib/fruit"
+    }
+  }
+
+}
